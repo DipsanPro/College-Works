@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+/home/dipsan/Documents/Java-Code/College-Works/.metadata/.plugins/org.eclipse.jdt.core
-594229770.index
-873942755.index
-1865797976.index
